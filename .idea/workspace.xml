@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf9e8a1-a6ac-40b1-95a8-daba664ae11d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusStopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusStopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusStopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="-264">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#294#295#0" expanded="true" />
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="429">
+              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
               <folding>
                 <element signature="e#377#378#0" expanded="true" />
                 <element signature="e#403#404#0" expanded="true" />
@@ -49,16 +49,18 @@
                 <element signature="e#461#462#0" expanded="true" />
                 <element signature="e#729#730#0" expanded="true" />
                 <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#284#285#0" expanded="true" />
@@ -66,6 +68,8 @@
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#406#407#0" expanded="true" />
                 <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="441">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
@@ -100,10 +104,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BusTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BusStopTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusStop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BusTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bus.java" />
       </list>
     </option>
   </component>
@@ -180,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BusStopTest">
+  <component name="RunManager" selected="JUnit.BusTest">
     <configuration name="BusStopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BusLab" />
       <option name="PACKAGE_NAME" value="" />
@@ -201,8 +205,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BusStopTest" />
         <item itemvalue="JUnit.BusTest" />
+        <item itemvalue="JUnit.BusStopTest" />
       </list>
     </recent_temporary>
   </component>
@@ -220,12 +224,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BusTest - 2019.10.08 at 13h 53m 03s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BusTest - 2019.10.08 at 13h 59m 44s.xml">
-      <configuration name="BusTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BusTest - 2019.10.08 at 14h 10m 18s.xml">
       <configuration name="BusTest" configurationId="JUnit" />
     </history-entry>
@@ -250,6 +248,12 @@
     <history-entry file="BusStopTest - 2019.10.08 at 14h 51m 08s.xml">
       <configuration name="BusStopTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BusStopTest - 2019.10.08 at 14h 54m 45s.xml">
+      <configuration name="BusStopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BusStopTest - 2019.10.08 at 14h 57m 11s.xml">
+      <configuration name="BusStopTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -265,10 +269,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3292232" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3292232" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,10 +298,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="-264">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
@@ -310,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="429">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
           <folding>
             <element signature="e#377#378#0" expanded="true" />
             <element signature="e#403#404#0" expanded="true" />
@@ -319,33 +352,8 @@
             <element signature="e#461#462#0" expanded="true" />
             <element signature="e#729#730#0" expanded="true" />
             <element signature="e#748#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BusStopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BusStop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
         </state>
       </provider>
