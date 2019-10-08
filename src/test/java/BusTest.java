@@ -30,5 +30,16 @@ public class BusTest {
         assertEquals(1, bus.passengerCount());
     }
 
-    
+    @Test
+    public void canNotAddPassengerOverCapacity() {
+        bus.addPassenger(person);
+        bus.addPassenger(person);
+        bus.addPassenger(person);
+        bus.addPassenger(person);
+        bus.addPassenger(person);
+        bus.addPassenger(person);
+        assertEquals(5, bus.passengerCount());
+    }
+
+
 }
