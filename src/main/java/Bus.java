@@ -4,16 +4,23 @@ public class Bus {
 
     private String destination;
     private int capacity;
-    private ArrayList<Person> passenger;
+    private ArrayList<Person> passengers;
 
     public Bus(String destination, int capacity) {
         this.destination = destination;
         this.capacity = capacity;
-        this.passenger = new ArrayList<Person>();
+        this.passengers = new ArrayList<Person>();
     }
 
     public String getDestination() {
         return this.destination;
     }
 
+    public int passengerCount() {
+        return this.passengers.size();
+    }
+
+    public void addPassenger(Person person) {
+        this.passengers.add(person);
+    }
 }
